@@ -17,6 +17,17 @@ for (int i=1; i<=4; i++){
     fac*=i;
 }
 printf("\n !%d = %d ",4,fac);
+
+printf("\n");
+printf("\n");
+printf("\n");
+
+for (int i=0; i<8;i++){
+    for (int j=0; j<4; j++) printf("#");
+    printf("\n");
+}
+
 return 0;
 }
+
 
