@@ -2,7 +2,7 @@
 int main(){
 char chain[5]= "aba";
 char chain2[]= {'a','b','a','\0','\0'};  //to samo co skladnia u gory
-// '\0' -> specjalny znak "koÒca stringa"
+// '\0' -> specjalny znak "ko√±ca stringa"
 printf("chain= %s \n", chain);
 printf("chain2= %s \n", chain2);
 int end_position;
@@ -12,6 +12,9 @@ for (int i=0; i<5; i++ ){
         break;
     }
 }
-printf("end_position= %d",end_position);
+printf("end_position= %d \n",end_position);
+for (int i=0; i<end_position; i++)
+        printf("%c", chain2[i] ); //wysietlenie jednej zmiennej char = %c
 return 0;
 }
+
