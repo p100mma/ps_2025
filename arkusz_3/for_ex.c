@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-// for ( instrukcje poczatkowe ;co pomiedzy iteracjami; WARUNEK ) {
+// for ( instrukcje poczatkowe ;WARUNEK; co pomiedzy iteracjami ) {
 // instrukcje wykonywane az WARUNEK to true
 // }
 for (int i=0; i<8;i++){
@@ -19,3 +19,4 @@ for (int i=1; i<=4; i++){
 printf("\n !%d = %d ",4,fac);
 return 0;
 }
+
