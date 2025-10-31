@@ -5,7 +5,7 @@ int main(){
 for (int i=0; i<5; i++ )
     tab[i]=i*i;
 int tab2[] = {0,1,2,3,4} ;
-int tab3[N]; // vs int size=10; tab[size]; //ERROR
+int tab3[N]; // vs int size=10; tab[size]; //ERROR? zależy od standardu C... 
 for (int i=0; i<5; i++)
     printf("%4d \n", tab[i]);
 // int tab[wiersze][kolumny];
@@ -22,3 +22,4 @@ for (int i=0; i<5; i++ ) {
     }
 return 0;
 }
+
