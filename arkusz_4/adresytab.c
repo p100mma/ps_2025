@@ -11,18 +11,18 @@ for (int i=0; i<20; i++)
     printf("%4d", tab[i]);
 printf("\n");
 }
-//kompilator i tak widzi coœ takiego:
+//kompilator i tak widzi cos takiego:
 void display_v3(int* tab){
 for (int i=0; i<20; i++)
     printf("%4d", *(tab+i));
 printf("\n");
 }
-//..zatem wszystkie powy¿sze funkcje dzia³aja tak samo
-// ..¿adna nie pilnuje rozmiaru tablicy, sama z siebie.
+//..zatem wszystkie powyzsze funkcje dzialaja tak samo
+// ..zadna nie pilnuje rozmiaru tablicy, sama z siebie.
 
 // WNIOSEK
 
-// definuj¹c funkcjê dzia³aj¹c¹ na tablicy, pobieraj jako parametr jej za³o¿ony rozmiar!
+// definujac funkcje dzialajaca na tablicy, pobieraj jako parametr jej zalozony rozmiar!
 
 void display_correct(int* tab, int size){
 for (int i=0; i< size; i++)
@@ -48,3 +48,4 @@ display_v3(tab);
 printf("display_correct(tab):");
 display_correct(tab, 10);
 }
+
