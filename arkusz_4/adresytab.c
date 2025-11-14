@@ -49,3 +49,15 @@ printf("display_correct(tab):");
 display_correct(tab, 10);
 }
 
+// Z.7
+// 0 1 2 3 4
+// swap(&tab[0], &tab[size-1])
+// 4 1 2 3 0
+// swap(&tab[1], &tab[size-2])
+// 4 3 2 1 0
+// swap(&tab[2], &tab[size-3]) // size -3 =2 bo size=5
+// 4 3 2 1 0 // jeszcze ok
+// swap(&tab[3], &tab[size-4])
+// 4 1 2 3 0 // ZLE, za duzo
+
+
