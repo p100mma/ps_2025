@@ -42,6 +42,8 @@ for (int i=0; i<3; i++){ printf("\n"); printAnimal(&stado[i]); }
 //wskaznik na structa
 
 Animal* wsk_an;
+Animal h;
+wsk_an= &h;
 wsk_an->n_legs=2;
 wsk_an->height_m=0.7;
 strcpy(wsk_an->name, "Stefan");
@@ -54,3 +56,4 @@ printf("%s \n", wsk_an->species);
 
 return 0;
 }
+
