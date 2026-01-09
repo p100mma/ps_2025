@@ -1,0 +1,12 @@
+Pattern_Recognition_and_Machine_Learning Christopher_Bishop 2006
+Neural_Networks_for_Pattern_Recognition Christopher_Bishop 1995
+Being_No_One Thomas_Metzinger 2003
+The_Ego_Tunnel Thomas_Metzinger 2009
+Mind_in_Life Evan_Thompson 2007
+Waking_Dreaming_Being Evan_Thompson 2015
+Godel_Escher_Bach Douglas_Hofstadter 1979
+I_Am_a_Strange_Loop Douglas_Hofstadter 2007
+The_Black_Swan Nassim_Taleb 2007
+Antifragile Nassim_Taleb 2012
+Introduction_to_Algorithms Cormen_Leiserson_Rivest_Stein 2009
+Structure_and_Interpretation_of_Computer_Programs Abelson_Sussman 1996
