@@ -1,0 +1,7 @@
+Sausagebert 21.50 33.05 38.32 29.10
+VeggieBowl 18.90 12.40 55.20 14.30
+ChickenPasta 27.00 41.80 62.10 18.60
+SalmonPlate 32.50 45.00 10.20 22.90
+PancakeStack 16.00 9.80 78.50 11.40
+BeefBurgerXL 29.90 52.30 44.10 35.80
+ProteinSalad 24.50 36.70 21.90 12.10

@@ -1,0 +1,11 @@
+Inception Nolan 2010 8.8 148
+The_Dark_Knight Nolan 2008 9.0 152
+Alien Ridley_Scott 1979 8.5 117
+Blade_Runner Ridley_Scott 1982 8.1 117
+Interstellar Nolan 2014 8.6 169
+Pulp_Fiction Tarantino 1994 8.9 154
+Django_Unchained Tarantino 2012 8.4 165
+Arrival Villeneuve 2016 8.0 116
+Blade_Runner_2049 Villeneuve 2017 8.0 164
+Whiplash Chazelle 2014 8.5 107
+La_La_Land Chazelle 2016 8.0 128
