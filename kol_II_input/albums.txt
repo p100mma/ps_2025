@@ -1,0 +1,11 @@
+Electric_Wizard Dopethrone 2000 8 doom_metal
+Pink_Floyd The_Wall 1979 26 progressive_rock
+Pink_Floyd Animals 1977 5 progressive_rock
+Burzum Filosofem 1996 6 black_metal
+Metallica Master_of_Puppets 1986 8 thrash_metal
+Daft_Punk Discovery 2001 14 electronic
+Miles_Davis Kind_of_Blue 1959 5 jazz
+Radiohead OK_Computer 1997 12 alternative_rock
+Radiohead Kid_A 2000 10 experimental
+ACDC Back_in_Black 1980 10 hard_rock
+Tool Lateralus 2001 13 progressive_metal
