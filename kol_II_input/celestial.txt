@@ -1,0 +1,5 @@
+Andromeda Galaxy 2540000 1500 3.4
+Sirius Star 8.6 2.02 25.4
+Betelgeuse Star 642.5 11.6 120000
+Jupiter Planet 0.000082 0.000954 0.8
+OrionNebula Nebula 1344 2000 4.0

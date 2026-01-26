@@ -1,0 +1,10 @@
+HundredMM Pedro 85666 2.0 Forestry
+Kowalski Anna 91234 4.5 ComputerScience
+Nowak Tomasz 82345 3.2 Mathematics
+Smith John 74521 4.0 Physics
+Garcia Maria 66789 3.8 Forestry
+Chen Wei 99812 4.9 ComputerScience
+Brown Gregory 73456 2.7 Philosophy
+Novak Luka 80123 3.5 Mathematics
+Ivanov Sergey 65432 4.1 Physics
+Muller Hans 88990 3.0 Engineering
