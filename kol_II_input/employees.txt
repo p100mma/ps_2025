@@ -1,0 +1,5 @@
+Kowalski Adam IT 7200.50 5
+Nowak Anna HR 5100.00 2
+Wisniewski Piotr Finance 8900.00 11
+Zielinska Marta IT 6400.75 4
+Lewandowski Tomasz Sales 4800.00 1
